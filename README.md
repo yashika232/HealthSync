@@ -54,4 +54,4 @@ Welcome to the Clinic/Hospital Management System! Our system is designed to effi
    - In case of schedule changes or conflicts, patients can cancel their appointments.
    - You can search for upcoming or past appointments for any patient.
 
-Our Clinic/Hospital Management System is designed to streamline administrative tasks, improve patient record-keeping, and enhance the overall appointment management process. It ensures that essential patient information and appointment details are readily accessible and efficiently managed. If you have any questions or need assistance, feel free to ask!
+Hospital Management System is designed to streamline administrative tasks, improve patient record-keeping, and enhance the overall appointment management process. It ensures that essential patient information and appointment details are readily accessible and efficiently managed. If you have any questions or need assistance, feel free to ask!
